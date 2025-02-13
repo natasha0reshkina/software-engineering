@@ -1,1 +1,1 @@
-<h1>Mini HW KPO</h1>
+<h1 align="center">Mini HW KPO</h1>
