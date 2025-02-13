@@ -1,0 +1,14 @@
+/Users/nataliiaoreshkina/RiderProjects/minidz/minidz/bin/Debug/net9.0/minidz
+/Users/nataliiaoreshkina/RiderProjects/minidz/minidz/bin/Debug/net9.0/minidz.deps.json
+/Users/nataliiaoreshkina/RiderProjects/minidz/minidz/bin/Debug/net9.0/minidz.runtimeconfig.json
+/Users/nataliiaoreshkina/RiderProjects/minidz/minidz/bin/Debug/net9.0/minidz.dll
+/Users/nataliiaoreshkina/RiderProjects/minidz/minidz/bin/Debug/net9.0/minidz.pdb
+/Users/nataliiaoreshkina/RiderProjects/minidz/minidz/obj/Debug/net9.0/minidz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliiaoreshkina/RiderProjects/minidz/minidz/obj/Debug/net9.0/minidz.AssemblyInfoInputs.cache
+/Users/nataliiaoreshkina/RiderProjects/minidz/minidz/obj/Debug/net9.0/minidz.AssemblyInfo.cs
+/Users/nataliiaoreshkina/RiderProjects/minidz/minidz/obj/Debug/net9.0/minidz.csproj.CoreCompileInputs.cache
+/Users/nataliiaoreshkina/RiderProjects/minidz/minidz/obj/Debug/net9.0/minidz.dll
+/Users/nataliiaoreshkina/RiderProjects/minidz/minidz/obj/Debug/net9.0/refint/minidz.dll
+/Users/nataliiaoreshkina/RiderProjects/minidz/minidz/obj/Debug/net9.0/minidz.pdb
+/Users/nataliiaoreshkina/RiderProjects/minidz/minidz/obj/Debug/net9.0/minidz.genruntimeconfig.cache
+/Users/nataliiaoreshkina/RiderProjects/minidz/minidz/obj/Debug/net9.0/ref/minidz.dll
