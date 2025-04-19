@@ -1,0 +1,66 @@
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/bin/Debug/net8.0/appsettings.Development.json
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/bin/Debug/net8.0/appsettings.json
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/bin/Debug/net8.0/ZooManagement2
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/bin/Debug/net8.0/ZooManagement2.deps.json
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/bin/Debug/net8.0/ZooManagement2.runtimeconfig.json
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/bin/Debug/net8.0/ZooManagement2.dll
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/bin/Debug/net8.0/ZooManagement2.pdb
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/ZooManagement2.csproj.AssemblyReference.cache
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/ZooManagement2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/ZooManagement2.AssemblyInfoInputs.cache
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/ZooManagement2.AssemblyInfo.cs
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/ZooManagement2.csproj.CoreCompileInputs.cache
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/ZooManagement2.MvcApplicationPartsAssemblyInfo.cs
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/ZooManagement2.MvcApplicationPartsAssemblyInfo.cache
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/staticwebassets.build.json
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/staticwebassets.development.json
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/staticwebassets/msbuild.ZooManagement2.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/staticwebassets/msbuild.build.ZooManagement2.props
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ZooManagement2.props
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ZooManagement2.props
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/scopedcss/bundle/ZooManagement2.styles.css
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/ZooManag.D8A51852.Up2Date
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/ZooManagement2.dll
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/refint/ZooManagement2.dll
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/ZooManagement2.pdb
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/ZooManagement2.genruntimeconfig.cache
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2/ZooManagement2/obj/Debug/net8.0/ref/ZooManagement2.dll
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/bin/Debug/net8.0/appsettings.Development.json
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/bin/Debug/net8.0/appsettings.json
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/bin/Debug/net8.0/ZooManagement2
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/bin/Debug/net8.0/ZooManagement2.deps.json
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/bin/Debug/net8.0/ZooManagement2.runtimeconfig.json
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/bin/Debug/net8.0/ZooManagement2.dll
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/bin/Debug/net8.0/ZooManagement2.pdb
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/ZooManagement2.csproj.AssemblyReference.cache
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/ZooManagement2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/ZooManagement2.AssemblyInfoInputs.cache
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/ZooManagement2.AssemblyInfo.cs
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/ZooManagement2.csproj.CoreCompileInputs.cache
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/ZooManagement2.MvcApplicationPartsAssemblyInfo.cs
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/ZooManagement2.MvcApplicationPartsAssemblyInfo.cache
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/staticwebassets.build.json
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/staticwebassets.development.json
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/staticwebassets/msbuild.ZooManagement2.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/staticwebassets/msbuild.build.ZooManagement2.props
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ZooManagement2.props
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ZooManagement2.props
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/scopedcss/bundle/ZooManagement2.styles.css
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/ZooManag.D8A51852.Up2Date
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/ZooManagement2.dll
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/refint/ZooManagement2.dll
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/ZooManagement2.pdb
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/ZooManagement2.genruntimeconfig.cache
+/Users/nataliiaoreshkina/RiderProjects/ZooManagement2 2/ZooManagement2/obj/Debug/net8.0/ref/ZooManagement2.dll
